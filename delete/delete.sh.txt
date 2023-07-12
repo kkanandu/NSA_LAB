@@ -1,0 +1,2 @@
+deleting linux word from the program
+using cmd for this
